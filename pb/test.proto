@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+
+message Mail {
+  int32                                    a                    = 1;
+}
