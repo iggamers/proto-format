@@ -3,8 +3,8 @@ package proto_format
 import (
 	"bytes"
 	"fmt"
-	"github.com/actorbuf/proto-format/pkg"
 	"github.com/emicklei/proto"
+	"github.com/just-bytes/proto-format/pkg"
 	"io"
 	"io/ioutil"
 	"os"

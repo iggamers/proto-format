@@ -1,4 +1,4 @@
-module github.com/actorbuf/proto-format
+module github.com/just-bytes/proto-format
 
 go 1.16
 
